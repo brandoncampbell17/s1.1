@@ -9,5 +9,6 @@ int main() {
       wait(0.5);
       red.write(1);
       wait(0.5);
+          wait(0.5);
     }
 }
